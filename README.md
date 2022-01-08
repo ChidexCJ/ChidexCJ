@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chidiebere (@ChidexCJ).
-- 👀 I’m interested in Python programming, Data science, Machine learning, SQL, etc.
-- 🌱 I’m currently learning Data Science, Machine learning, SQL and Model Deployment.
+- 👀 My interest areas are Python programming, Data science, Machine learning, Data Analysis, SQL, etc.
+- 🌱 I’m currently advancing my knowledge in Data Science, Machine learning and Deep learning.
 - 💞️ I’m looking to collaborate on Data science and Machine learning projects.
 - 📫 How to reach me charlesafamefuna@gmail.com.
 
